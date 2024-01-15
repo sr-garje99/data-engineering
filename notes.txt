@@ -1,0 +1,7 @@
+Docker : delivers software in packages called containers, containers are 
+isolated from one another
+
+Data pipeline : it can be any program which takes data processes it and 
+producesses transformed data 
+
+if it works on my container it will work in any image of my container
